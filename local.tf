@@ -2,5 +2,5 @@ locals {
   tags = {
     owner = "piotr.nagorny"
   }
-  prefix = "witam" # FIXME
+  prefix = "halo" # FIXME
 }
